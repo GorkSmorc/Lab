@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\Новая папка (8)\Dz\Dz\Dz\bin\Debug\Dz.exe.config
+C:\Users\admin\Desktop\Новая папка (8)\Dz\Dz\Dz\bin\Debug\Dz.XML
+C:\Users\admin\Desktop\Новая папка (8)\Dz\Dz\Dz\bin\Debug\Dz.exe
+C:\Users\admin\Desktop\Новая папка (8)\Dz\Dz\Dz\bin\Debug\Dz.pdb
+C:\Users\admin\Desktop\Новая папка (8)\Dz\Dz\Dz\bin\Debug\FSharp.Core.dll
+C:\Users\admin\Desktop\Новая папка (8)\Dz\Dz\Dz\bin\Debug\FSharp.Core.xml
+C:\Users\admin\Desktop\Новая папка (8)\Dz\Dz\Dz\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\admin\Desktop\Новая папка (8)\Dz\Dz\Dz\obj\Debug\Dz.exe
+C:\Users\admin\Desktop\Новая папка (8)\Dz\Dz\Dz\obj\Debug\Dz.pdb
